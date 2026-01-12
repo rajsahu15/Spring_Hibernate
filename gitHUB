@@ -1,0 +1,7 @@
+echo "# Spring_Hibernate" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rajsahu15/Spring_Hibernate.git
+git push -u origin main
